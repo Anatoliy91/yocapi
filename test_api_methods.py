@@ -66,6 +66,7 @@ def test_when_get_getretailers_expected_code200():
     return resp
 
 
+
 def test_when_get_getretailers_time1sec():
     starttime = datetime.datetime.now()
     print(starttime)
