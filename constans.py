@@ -23,3 +23,11 @@ appversions_url = base_url + "getappversions"
 foxtrotcard_url = base_url + "createfoxtrotcard"
 offers_url = base_url + "getoffers"
 retailers_url = base_url + "getretailers"
+getgasstations = base_url + "getgasstations"
+getidentifiers = base_url + "getidentifiers"
+getallmessages = base_url + "getallmessages"
+getapplicationconfig = base_url + "getapplicationconfig"
+getapplicationevents = base_url + "getapplicationevents"
+
+
+
